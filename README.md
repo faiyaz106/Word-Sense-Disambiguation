@@ -1,7 +1,7 @@
 # Word-Sense-Disambiguation
 ### Aim of this project to identify the sense of particular word for given context. 
 In this project, I have used only to identify the sense of 6 different words. Such as plant, bass, crane, motion, palm, and tank.
-####Methodology:
+#### Methodology:
 1. Create the bag of words for each sense
 2. Applied Naive Bayes algorithm to identify the most probable sense of word in given context
 3. Add one smoothing is done to avoid the zero probability case.
